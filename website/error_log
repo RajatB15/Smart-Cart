@@ -1,0 +1,59 @@
+[03-Apr-2018 13:24:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 13:27:13 America/New_York] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rajahgty/public_html/buy.php on line 25
+[03-Apr-2018 13:33:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/rajahgty/public_html/add.php on line 10
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:50:13 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/buy.php on line 31
+[03-Apr-2018 13:51:20 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 16
+[03-Apr-2018 13:51:20 America/New_York] PHP Notice:  Undefined index: name in /home/rajahgty/public_html/add.php on line 16
+[03-Apr-2018 14:14:48 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:14:50 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:14:54 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:14:55 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:15:18 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:19:02 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:19:03 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:19:07 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 14:19:11 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 15:07:23 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:07:23 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:07:23 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:10:00 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:10:00 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:10:00 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:27:24 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:27:24 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:27:24 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:28:45 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:28:45 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:28:45 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:42:11 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:42:11 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:42:11 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:49:41 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:49:41 America/New_York] PHP Notice:  Trying to get property of non-object in /home/rajahgty/public_html/add.php on line 10
+[03-Apr-2018 15:49:41 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:49:41 America/New_York] PHP Notice:  Undefined index: price in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 15:54:17 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 8
+[03-Apr-2018 15:54:17 America/New_York] PHP Notice:  Trying to get property of non-object in /home/rajahgty/public_html/add.php on line 10
+[03-Apr-2018 15:54:17 America/New_York] PHP Notice:  Undefined index: id in /home/rajahgty/public_html/add.php on line 28
+[03-Apr-2018 16:14:51 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 16:14:56 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 21:30:04 America/New_York] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 28
+[03-Apr-2018 21:56:43 America/New_York] PHP Parse error:  syntax error, unexpected 'blueTable' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 75
+[03-Apr-2018 21:56:47 America/New_York] PHP Parse error:  syntax error, unexpected 'blueTable' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 75
+[03-Apr-2018 21:57:01 America/New_York] PHP Parse error:  syntax error, unexpected 'blueTable' (T_STRING), expecting ',' or ';' in /home/rajahgty/public_html/dash.php on line 75
